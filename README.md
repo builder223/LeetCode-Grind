@@ -1,2 +1,3 @@
 # LeetCode-Grind
-Just Practicing
+
+My way on working on solutions for LeetCode problems.
