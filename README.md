@@ -1,3 +1,3 @@
 # LeetCode-Grind
 
-My way on working on solutions for LeetCode problems.
+My take on working through LeetCode Problems after finishing Data Structures and Algorithms course. 
